@@ -1,8 +1,16 @@
 .body {
     font-family: 'Bitter', serif;
     font-family: 'Open Sans', sans-serif;
+
 }
-#nav-link {
+.nav-link {
     font-family: 'Bitter', serif;
-    font-size: 36px;
+    font-size: 24px;
+    
+}
+.navbar {
+    background-color: #4BADA3;
+}
+.navbar-dark {
+    color: #F2F2F2;
 }
