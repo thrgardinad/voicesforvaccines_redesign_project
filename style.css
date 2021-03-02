@@ -19,8 +19,14 @@
     color: #F2F2F2;
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
+    text-align: center;
 }
 #h1 {
     font-size: 24px;
     font-family: 'Bitter', serif;
 }
+.highlight {
+    font-size: 18px;
+    text-decoration: none;
+    color: #F2F2F2;
+}   
