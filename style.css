@@ -15,11 +15,17 @@
     color: #F2F2F2;
 }
 .container-fluid {
-    background-color: #3C4AC2;
+    
     color: #F2F2F2;
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     text-align: center;
+}
+#container1 {
+    background-color: #3C4AC2;
+}
+#container2 {
+    background-color: #4BADA3;
 }
 #h1 {
     font-size: 24px;
