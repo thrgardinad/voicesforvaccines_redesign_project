@@ -30,3 +30,11 @@
     text-decoration: none;
     color: #F2F2F2;
 }   
+.dropdown-menu {
+    background-color: #4BADA3;
+}
+.dropdown-item {
+    color: #F2F2F2;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+}
