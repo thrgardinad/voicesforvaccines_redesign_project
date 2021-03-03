@@ -38,3 +38,24 @@
     font-family: 'Open Sans', sans-serif;
     font-size: 24px;
 }
+
+.jumbotron {
+    background-image: url(images/Playgroups-ben-wicks2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(30vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Jumbotron copy */
+  .jumboCopy {
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    color: #3C4AC2;
+    text-align: center;
+    font-size: 24px;
+    align-items: flex-end;
+  }
